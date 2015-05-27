@@ -45,34 +45,36 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.1}Kommunikation}{6}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {3}L\IeC {\ae }reprocesser}{7}{chapter.3}
+\contentsline {section}{\numberline {2.3}Vurdering}{6}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Beskrivelse}{7}{section.3.1}
+\contentsline {chapter}{\chapternumberline {3}L\IeC {\ae }reprocesser}{8}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}L\IeC {\ae }ringsmetode}{7}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.1}Beskrivelse}{8}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}L\IeC {\ae }reproces i forhold til kurser}{7}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.1}L\IeC {\ae }ringsmetode}{8}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.3}L\IeC {\ae }reproces i forhold til projektarbejde}{8}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.2}L\IeC {\ae }reproces i forhold til kurser}{8}{subsection.3.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Vurdering}{9}{section.3.2}
+\contentsline {subsection}{\numberline {3.1.3}L\IeC {\ae }reproces i forhold til projektarbejde}{9}{subsection.3.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Reflektion}{9}{section.3.3}
+\contentsline {section}{\numberline {3.2}Vurdering}{10}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}L\IeC {\ae }ringsmetode}{9}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.3}Reflektion}{10}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}L\IeC {\ae }reproces i forhold til kurser}{10}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.1}L\IeC {\ae }ringsmetode}{10}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.3}L\IeC {\ae }reproces i forhold til projektarbejde}{10}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.2}L\IeC {\ae }reproces i forhold til kurser}{11}{subsection.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Synthese}{10}{section.3.4}
+\contentsline {subsection}{\numberline {3.3.3}L\IeC {\ae }reproces i forhold til projektarbejde}{11}{subsection.3.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {appendix}{\chapternumberline {A}Bilag - Samarbejdsaftale}{11}{chapter.A}
+\contentsline {section}{\numberline {3.4}Synthese}{11}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {appendix}{\chapternumberline {B}Bilag - Tips og Tricks}{12}{chapter.B}
+\contentsline {appendix}{\chapternumberline {A}Bilag - Samarbejdsaftale}{12}{chapter.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {appendix}{\chapternumberline {C}Bilag - Samarbejde med vejleder}{13}{chapter.C}
+\contentsline {appendix}{\chapternumberline {B}Bilag - Tips og Tricks}{13}{chapter.B}
 \defcounter {refsection}{0}\relax 
-\contentsline {appendix}{\chapternumberline {D}Bilag - Dagsorden for Fredagsm\IeC {\o }der}{14}{chapter.D}
+\contentsline {appendix}{\chapternumberline {C}Bilag - Samarbejde med vejleder}{14}{chapter.C}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {D.1}Fredagsm\IeC {\o }de}{14}{section.D.1}
+\contentsline {appendix}{\chapternumberline {D}Bilag - Dagsorden for Fredagsm\IeC {\o }der}{15}{chapter.D}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {D.1}Fredagsm\IeC {\o }de}{15}{section.D.1}

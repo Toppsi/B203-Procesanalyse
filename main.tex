@@ -3,23 +3,21 @@
 \input{macros.tex}
 \begin{document}
 
-%||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-%|||||||				Example Inputs					 ||||||||
-%||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-%|||||||												 ||||||||
-%	\input{rapportAfsnit/zExamples/aFigureSample.tex}	%||||||||
-%	\input{rapportAfsnit/zExamples/bTableSample.tex}	%||||||||
-%	\input{rapportAfsnit/zExamples/cEquationSample.tex}	%||||||||
-%|||||||												 ||||||||
-%||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-%||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+%%%%%%%%%%%%%%%% FORSIDE	
+%\input{rapportAfsnit/aForside/afrontpage.tex} \cleardoublepage
+\frontmatter
 
+\input{rapportAfsnit/aForside/bForord.tex} \cleardoublepage
 
-%---------------------------INPUTS-------------------------------
+\tableofcontents*
+
+%numbers the pages with Arabic numeral - starts from 1.
+\mainmatter
+
 
 \input{rapportAfsnit/bIndhold/aProjektplanlaegning.tex} \clearpage
 \input{rapportAfsnit/bIndhold/bSamarbejdeigruppen.tex} \clearpage
-\input{rapportAfsnit/bIndhold/cSamarbejdemedVejleder.tex} \clearpage
+%\input{rapportAfsnit/bIndhold/cSamarbejdemedVejleder.tex} \clearpage
 %\input{rapportAfsnit/bIndhold/dLaereprocesser.tex} \clearpage
 
 \begin{appendices}
@@ -29,5 +27,5 @@
 \input{rapportAfsnit/cBilag/cDagsordenForFredagsmode.tex} \clearpage
 \end{appendices}
 
-\printbibliography
+%\printbibliography
 \end{document}
